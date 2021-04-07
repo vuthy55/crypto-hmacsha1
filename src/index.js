@@ -264,3 +264,5 @@ var CryptoJS = function(g, l) {
     }
   })
 })();
+
+module.exports = CryptoJS;
