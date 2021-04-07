@@ -265,7 +265,7 @@ var CryptoJS = function(g, l) {
   })
 })();
 
-export const HmacSHA1 = CryptoJS.HmacSHA1;
 export const SHA1 = CryptoJS.SHA1;
+export const HmacSHA1 = CryptoJS.HmacSHA1;
 
 export default CryptoJS;

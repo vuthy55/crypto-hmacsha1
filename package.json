@@ -9,6 +9,7 @@
   ],
   "main": "umd/index.js",
   "lib": "umd/index.js",
+  "types": "type/index.d.ts",
   "scripts": {
     "build": "webpack"
   },
