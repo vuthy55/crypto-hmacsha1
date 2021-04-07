@@ -1,6 +1,6 @@
 {
   "name": "crypto-hmacsha1",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "a mini hmacsha1 library",
   "keywords": [
     "crypto",
