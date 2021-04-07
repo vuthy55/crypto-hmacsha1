@@ -1,0 +1,12 @@
+{
+  "name": "crypto-hmacsha1",
+  "version": "1.0.0",
+  "description": "a mini hmacsha1 library",
+  "keywords": ["crypto", "hmacsha1", "sha1"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
